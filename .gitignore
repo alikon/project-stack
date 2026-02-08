@@ -1,0 +1,12 @@
+# Joomla source
+src/
+
+# Extensions development
+extensions/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
